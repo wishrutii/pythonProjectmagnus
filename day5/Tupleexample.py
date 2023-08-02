@@ -3,3 +3,4 @@ t1 = (10,20,23,45,70,'abc',10.7) # Tuple is immutable, cannot be modified once t
 print(type(t1))
 print(t1[0])
 print(t1[0:4])
+
